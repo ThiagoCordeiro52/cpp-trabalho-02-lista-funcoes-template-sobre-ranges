@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4929027&assignment_repo_type=AssignmentRepo)
 ﻿# Lista de Exercício sobre Ranges e Funções Templates
 
 Essa lista de exercícios tem por objetivo o desenvolvimento de uma biblioteca de funções que operam sobre **ranges**, i.e. um par de ponteiros que definem um intervalo fechado-aberto sobre uma coleção, e que são implementadas na forma de **templates**. A programação com template ou _gabarito_ em C++ permite que você programe uma função sem especificar o tipo de dados sobre o qual a função vai trabalhar. Dessa forma é possível, por exemplo, criar uma função de ordenação que ordenda qualquer coleção de informações, como inteiros, strings, frutas ou monstros.
