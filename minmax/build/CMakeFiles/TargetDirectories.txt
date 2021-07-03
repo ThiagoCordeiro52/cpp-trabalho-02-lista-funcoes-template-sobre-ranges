@@ -1,0 +1,3 @@
+/home/thiagoty52/trabalho-02-lista-funcoes-template-sobre-ranges-ThiagoOliveiraCordeiro/minmax/build/CMakeFiles/rebuild_cache.dir
+/home/thiagoty52/trabalho-02-lista-funcoes-template-sobre-ranges-ThiagoOliveiraCordeiro/minmax/build/CMakeFiles/edit_cache.dir
+/home/thiagoty52/trabalho-02-lista-funcoes-template-sobre-ranges-ThiagoOliveiraCordeiro/minmax/build/CMakeFiles/run_tests.dir
