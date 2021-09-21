@@ -16,7 +16,12 @@ namespace graal {
 template<class ForwardIt>
 ForwardIt rotate(ForwardIt first, ForwardIt n_first, ForwardIt last)
 {
-    // TODO
+   for(auto i = first; first != last; first++) 
+   {
+       if (first == n_first) {
+           for(auto j = n_first - first;)
+       }
+   }
    return last;
 }
 
